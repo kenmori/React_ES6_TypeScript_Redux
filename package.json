@@ -1,5 +1,5 @@
 {
-  "name": "TypeScript x ES6 x React playground",
+  "name": "TypeScript_ES6_React_playground",
   "version": "1.0.0",
   "scripts": {
     "bootstrap": "npm install && tsd install",
